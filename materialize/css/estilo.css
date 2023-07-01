@@ -1,0 +1,22 @@
+#corpo{
+ height: 550px;
+ background-color:rgba(46, 68, 88, 0.87);
+ padding-left: 20px;
+ padding-top:10px;
+ color:white;
+ font-size:22px;
+}
+hr{
+	width:70%;
+    margin: 0 auto 0 0;
+	height: 3px;
+	border-top-width: 2px;
+	border-color: rgba(204, 224, 176, 0.14);
+}
+
+table{
+	font-size:18px;
+}
+table td{
+	color:rgba(226, 239, 245, 0.55);
+}
